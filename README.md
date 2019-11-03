@@ -4,6 +4,9 @@
  This is a demo app which displays parsed json into stacked cards.
  
  
+## Installation
+- Clone this repo.
+- Build apk and install it
  
 ## Demo
 
